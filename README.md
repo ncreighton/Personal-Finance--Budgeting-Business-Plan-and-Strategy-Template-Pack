@@ -1,2 +1,25 @@
-# Personal-Finance--Budgeting-Business-Plan-and-Strategy-Template-Pack
-Complete business plan, market analysis framework, and strategic planning worksheets. Investor-ready planning documents for Personal Finance &amp; Budgeting.
+# Personal Finance & Budgeting Business Plan and Strategy Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNicN5dPpf6Q2hi9rKd0r16)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNicN5dPpf6Q2hi9rKd0r16)
+
